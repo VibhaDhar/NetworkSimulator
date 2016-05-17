@@ -139,7 +139,7 @@ def readforword():
                 r8=36+(i*44)
                 r9=36+(i*44)
                 r10=38+(i*44)
-                #print ("hi")
+                
                
                 i=i+1
                 d1=hex_content[r1:r2]
